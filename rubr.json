@@ -1,0 +1,20 @@
+﻿{
+	"ar":{
+		"data":"البيانات",
+		"integration":"تكامل البيانات",
+		"method":"الطرق والنهج",
+		"manage":"إدارة البيانات"
+	},
+	"fr":{
+		"data":"Données",
+		"integration":"intégration",
+		"method":"Little birds pitch by my doorstep",
+		"manage":"source"
+	},
+	"en":{
+		"data":"Data",
+		"integration":"integration",
+		"method":"Little birds pitch by my doorstep",
+		"manage":"source"
+	}
+}

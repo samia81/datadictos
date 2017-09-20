@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /znvygb
+Disallow: /_error-msg.php
+Disallow: /_search.html
+Disallow: /_checkout.html
+Disallow: /_message.html
+Disallow: /_search-en.html
+Disallow: /_checkout-en.html
+Disallow: /_message-en.html
+Disallow: /_search-ar.html
+Disallow: /_checkout-ar.html
+Disallow: /_message-ar.html
+Sitemap: http://datadictos.site/sitemap.xml
