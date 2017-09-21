@@ -2,7 +2,7 @@
 	"ar":{
 		"data": {
 			"title" :"بيانات ويكيبيديا",
-			"description":"البيانات أو المعطيات Data هي سلسلة غير مترابطة من الحقائق الموضوعية التي يمكن الحصول عليها عن طريق الملاحظة أو عن طريق البحث والتسجيل.\n وبشكل عام فالبيانات هي مجموعة من الحروف أوالكلمات أو الأرقام أو الرموز أو الصور (الخام) المتعلقة بموضوع معين .\n مثال على ذلك: بيانات الموظفين (الأسماء - الأرقام الوظيفية - المهن - الصور) بدون ترتيب ، وينتج عن هذه البيانات بعد المعالجة ما يطلق عليه مصطلح معلومات.",
+			"description":"البيانات أو المعطيات Data هي سلسلة غير مترابطة من الحقائق الموضوعية التي يمكن الحصول عليها عن طريق الملاحظة أو عن طريق البحث والتسجيل.<br> وبشكل عام فالبيانات هي مجموعة من الحروف أوالكلمات أو الأرقام أو الرموز أو الصور (الخام) المتعلقة بموضوع معين .<br> مثال على ذلك: بيانات الموظفين (الأسماء - الأرقام الوظيفية - المهن - الصور) بدون ترتيب ، وينتج عن هذه البيانات بعد المعالجة ما يطلق عليه مصطلح معلومات.",
 			"rubrique" :"data",
 			"image":"data.png",
 			"source":"ويكيبيديا"
@@ -11,12 +11,12 @@
 			"title" :"البيانات الضخمة",
 			"description": "البيانات الضخمة هي مجموعة من مجموعة البيانات الضخمة جداً والمعقدة لدرجة أنه يُصبح من الصعب معالجتها باستخدام أداة واحدة فقط من أدوات إدارة قواعد البيانات أو باستخدام تطبيقات معالجة البيانات التقليدية. حيث تشمل التحديات الالتقاط، والمدة، والتخزين[1]، والبحث، والمشاركة، والنقل، والتحليل والتصور[2]. ويرجع الاتجاه إلي مجموعات البيانات الضخمة بسبب المعلومات الإضافية المشتقة من تحليل مجموعة واحدة كبيرة من البيانات ذات الصلة، بالمقارنة مع المجموعات المنفصلة الأصغر حجماً مع نفس الحجم الإجمالي للبيانات، مما يسمح بوجود ارتباطات تكشف الاتجاهات التجارية المحورية، وتحديد جودة البحث، وربط الاستشهادات القانونية، ومكافحة الجريمة وتحديد ظروف حركة تدفق البيانات في الوقت الحقيقي..",
 			"rubrique" :"data",
-			"image":"bigdata.png",
+			"image":"big-data.jpg",
 			"source":"ويكيبيديا"
 		},
 		"unstructdata": {
 			"title" :"البيانات غير المهيكلة",
-			"description":"البيانات أو المعلومات غير المهيكلة (وأحيانا تسمى النصوص غير المهيكلة)، هي معلومات الكترونية (أي موجودة بشكل الكتروني وليست مكتوبة على الورق) لها قوالب أو نماذج بيانات أو لديها نموذج تنظيمي ولكن ليس من السهل التعامل مع ببرامج الكومبيوتر. وتختلف هذه المعلومات أو البيانات عن البيانات المخزنة في قواعد البيانات أو تلك التي تم تأشيرها بعلامات لتصنيفها وتوضيح معالم معينة قد تكون لغوية أو غير ذلك.\nان المعنى غير دقيق ومبهم لعدة أسباب ألا وهي:بالرغم أن البيانات المهيكلة ليست معرفة بشكل تام ولكن يمكن الدلالة ضمنا عليها.بعض البيانات تأخذ اشكال هيكلية ولكنها لاتصنف أنها مهيكلة وذلك لان الهيكلة غير مجدية لعملية معالجة معينة",
+			"description":"البيانات أو المعلومات غير المهيكلة (وأحيانا تسمى النصوص غير المهيكلة)، هي معلومات الكترونية (أي موجودة بشكل الكتروني وليست مكتوبة على الورق) لها قوالب أو نماذج بيانات أو لديها نموذج تنظيمي ولكن ليس من السهل التعامل مع ببرامج الكومبيوتر. وتختلف هذه المعلومات أو البيانات عن البيانات المخزنة في قواعد البيانات أو تلك التي تم تأشيرها بعلامات لتصنيفها وتوضيح معالم معينة قد تكون لغوية أو غير ذلك.<br>ان المعنى غير دقيق ومبهم لعدة أسباب ألا وهي:بالرغم أن البيانات المهيكلة ليست معرفة بشكل تام ولكن يمكن الدلالة ضمنا عليها.بعض البيانات تأخذ اشكال هيكلية ولكنها لاتصنف أنها مهيكلة وذلك لان الهيكلة غير مجدية لعملية معالجة معينة",
 			"rubrique" :"data",
 			"image":"unstructdata.png",
 			"source":"ويكيبيديا"
@@ -34,24 +34,31 @@
 	"fr":{
 		"data": {
 			"title" :"Données By Wikipidea",
-			"description":"ne donnée est une description élémentaire d’une réalité. C’est par exemple une observation ou une mesure. \nLa donnée est dépourvue de tout raisonnement, supposition, constatation, probabilité. Étant indiscutable ou indiscutée, elle sert de base à une recherche, à un examen quelconque. \n Les données sont généralement le résultat d'un travail préalable sur les données brutes qui permettra de leur donner un sens et ainsi, d'obtenir une information. Les données sont un ensemble de valeurs mesurables en fonction d'un étalon de référence.",
+			"description":"Une donnée est une description élémentaire d’une réalité. C’est par exemple une observation ou une mesure. <br>La donnée est dépourvue de tout raisonnement, supposition, constatation, probabilité. Étant indiscutable ou indiscutée, elle sert de base à une recherche, à un examen quelconque. <br> Les données sont généralement le résultat d'un travail préalable sur les données brutes qui permettra de leur donner un sens et ainsi, d'obtenir une information. Les données sont un ensemble de valeurs mesurables en fonction d'un étalon de référence.",
 			"rubrique" :"data",
 			"image":"data.png",
 			"source":"Wikipidea"
 		},
-		"bigdata": {
-			"title" :"البيانات الضخمة",
-			"description":"البيانات الضخمة هي مجموعة من مجموعة البيانات الضخمة جداً والمعقدة لدرجة أنه يُصبح من الصعب معالجتها باستخدام أداة واحدة فقط من أدوات إدارة قواعد البيانات أو باستخدام تطبيقات معالجة البيانات التقليدية. حيث تشمل التحديات الالتقاط، والمدة، والتخزين[1]، والبحث، والمشاركة، والنقل، والتحليل والتصور[2]. ويرجع الاتجاه إلي مجموعات البيانات الضخمة بسبب المعلومات الإضافية المشتقة من تحليل مجموعة واحدة كبيرة من البيانات ذات الصلة، بالمقارنة مع المجموعات المنفصلة الأصغر حجماً مع نفس الحجم الإجمالي للبيانات، مما يسمح بوجود ارتباطات تكشف الاتجاهات التجارية المحورية، وتحديد جودة البحث، وربط الاستشهادات القانونية، ومكافحة الجريمة وتحديد ظروف حركة تدفق البيانات في الوقت الحقيقي",
+		"structdata": {
+			"title" :"Données Structurées",
+			"description":"Les Données Structurées font référence aux informations organisées comme les données commerciales au sein d’une base de données relationnelle. Les ordinateurs peuvent facilement effectuer des recherches et les organiser sur la base de divers critères. Les informations reprises sur un code-barres peuvent sembler méconnaissables pour l’œil humain, mais elles sont hautement structurées et facilement lisibles par les ordinateurs.",
 			"rubrique" :"data",
-			"image":"bigdata.png",
-			"source":"ويكيبيديا"
+			"image":"big-data.jpg",
+			"source":"BigData pour les nuls"
 		},
-				"unstructdata": {
-			"title" :"البيانات غير المهيكلة",
-			"description":"البيانات أو المعلومات غير المهيكلة (وأحيانا تسمى النصوص غير المهيكلة)، هي معلومات الكترونية (أي موجودة بشكل الكتروني وليست مكتوبة على الورق) لها قوالب أو نماذج بيانات أو لديها نموذج تنظيمي ولكن ليس من السهل التعامل مع ببرامج الكومبيوتر. وتختلف هذه المعلومات أو البيانات عن البيانات المخزنة في قواعد البيانات أو تلك التي تم تأشيرها بعلامات لتصنيفها وتوضيح معالم معينة قد تكون لغوية أو غير ذلك.\nان المعنى غير دقيق ومبهم لعدة أسباب ألا وهي:بالرغم أن البيانات المهيكلة ليست معرفة بشكل تام ولكن يمكن الدلالة ضمنا عليها.بعض البيانات تأخذ اشكال هيكلية ولكنها لاتصنف أنها مهيكلة وذلك لان الهيكلة غير مجدية لعملية معالجة معينة",
+		"unstructdata": {
+			"title" :"Données Non Structurées",
+			"description":"Les Données Non Structurées sont des informations qui ne présentent souvent pas de modèle de donnée prédéfini ou qui peuvent difficilement être intégrées dans des tableaux ordonnés ou des tableurs. Dans le monde des affaires, les informations non structurées sont souvent lourdes en texte et peuvent contenir des données telles que des dates, des chiffres et des faits. Les fichiers image, vidéo et audio sont souvent qualifiés de non structurés, même s’ils présentent souvent une certaine organisation ; le manque de structure rend la compilation fastidieuse pour faire de l’analyse.",
 			"rubrique" :"data",
 			"image":"unstructdata.png",
-			"source":"ويكيبيديا"
+			"source":"BigData pour les nuls"
+		},
+		"BigData": {
+			"title" :"Big Data",
+			"description":"Big Data ou grosse données. Le terme Big Data est utilisé depuis le début du millénaire et a été proposé pour la première fois par des analystes de Technology Research Gartner avec trois dimensions. Ces paramètres du Big Data sont :<br>                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓                     Le volume : Quantité de données très grande ou en augmentation permanente.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓                     La vélocité : La vitesse d’entrée et de sortie des données.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓                     La variété : L’éventail des types et des sources de données.<br>Ces 3 V (volume, vélocité et variété) caractérisent le Big Data, mais il faut avant tout déterminer si ces données peuvent être traitées pour fournir des renseignements précis et permettre de prendre des décisions avisées dans des délais raisonnables..",
+			"rubrique" :"data",
+			"image":"big-data.jpg",
+			"source":"BigData pour les nuls"
 		}
 	}
 }

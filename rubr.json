@@ -1,20 +1,20 @@
 ﻿{
 	"ar":{
 		"data":"البيانات",
-		"integration":"تكامل البيانات",
+		"integ":"تكامل البيانات",
 		"method":"الطرق والنهج",
 		"manage":"إدارة البيانات"
 	},
 	"fr":{
 		"data":"Données",
-		"integration":"intégration",
-		"method":"Little birds pitch by my doorstep",
-		"manage":"source"
+		"integ":"Management de données",
+		"method":"Méthodos et Approches",
+		"manage":"Systèmes et Outils"
 	},
 	"en":{
 		"data":"Data",
-		"integration":"integration",
-		"method":"Little birds pitch by my doorstep",
-		"manage":"source"
+		"integ":"Data management",
+		"method":"Methods and Approaches",
+		"manage":"Systems and tools"
 	}
 }
